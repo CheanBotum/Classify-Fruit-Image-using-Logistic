@@ -37,7 +37,7 @@ The classification model used for this project is logistic regression. It's a si
 - `utils/`: Utility functions for data preprocessing and evaluation.
 
 ## Results
-It is good with 99.41% true.
+It is good with accuracy 99.41% .
 ## Acknowledgments
  tutorials used for this project https://realpython.com/logistic-regression-python/
 
